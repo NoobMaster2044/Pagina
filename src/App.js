@@ -1,7 +1,7 @@
 import './App.css';
 import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom';
 
-//importamos los comp creados
+
 import About from './components/about';
 import Contact from './components/contact';
 import Home from './components/home';
